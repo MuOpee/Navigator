@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Hide navigation items on small screens */
+@media screen and (max-width: 600px) {
+    nav ul li {
+        display: none;
+    }
+    /* Show a menu icon (e.g., ☰) */
+    .menu-icon {
+        display: block;
+        font-size: 24px;
+        cursor: pointer;
+    }
+}
+
+/* Style the menu icon */
+.menu-icon:hover {
+    color: #0074D9;
+}
