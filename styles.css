@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* Reset default list styles */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the navigation links */
+nav ul li {
+    display: inline-block;
+    margin-right: 20px; /* Adjust spacing between items */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333; /* Change link color */
+    font-weight: bold;
+}
+
+/* Hover effect */
+nav ul li a:hover {
+    color: #0074D9; /* Change link color on hover */
+}
