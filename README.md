@@ -8,7 +8,7 @@
 </head>
 <body>
     <nav>
-        <ul><p align="center"><img src="https://cdn.discordapp.com/attachments/951617301818540093/1241450698781229158/image0.jpg?ex=664ae74f&is=664995cf&hm=ea118794e5d799d68796506508ed71e8b947fb8b4d8066878801a762c8d58fc6&" alt="Logo" width="45" height="45"></p>
+        <ul><p align="center"><img src="https://cdn.discordapp.com/attachments/951617301818540093/1241822854329139402/image0.jpg?ex=664b9928&is=664a47a8&hm=4da891f20bd03487649f8e77916e771f6ba71db9daf088054aa7f66a3b6f03bf&" alt="Cover" width="original" height="original"></p>
             <p align="center"> 
             <a href="#">Home</a>
             <a href="#">Shop</a>
